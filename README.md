@@ -9,4 +9,5 @@ Data was retreived from the OpenWeatherMap API for a sample of cities. And the G
 ## Analysis & Conclusion
 There is a strong correlation between the maximum forecasted temperature and degrees latitude of a given city. This relationship was stronger for the northern hemisphere than the Southern Hemisphere. Cities near the equator experience more exposure to the sun throughout out the year.
 
-![GlobalCloudinessvslat](https://user-images.githubusercontent.com/80709458/132154165-80c6f8c6-7a52-4397-b608-1999eceb971d.png)
+![NH_Max Temperature (F)vslat](https://user-images.githubusercontent.com/80709458/132154602-10b73f18-e97e-42f6-af24-ea506a6f345f.png)
+
