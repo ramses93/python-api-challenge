@@ -12,3 +12,5 @@ There is a strong correlation between the maximum forecasted temperature and deg
 ![NH_Max Temperature (F)vslat](https://user-images.githubusercontent.com/80709458/132154602-10b73f18-e97e-42f6-af24-ea506a6f345f.png)
 
 ![map](https://user-images.githubusercontent.com/80709458/132154768-b967d82e-762c-4e58-986b-5946366363e5.PNG)
+
+The heat map showed the coastal areas and some dry inland regions which have higher humidity due to evaporation near the bodies of water. The drier regions experience it when there are thunderstorms, and the change in humidity happens when the storms clear up. Meanwhile coasral regions experience high humidity.
